@@ -7,6 +7,8 @@ To get started with Antispambot, [view the online tutorial](http://cferdinandi.g
 
 
 ## Changelog
+* v1.1 (November 6, 2013)
+  * Renamed plugin `WP Email Antispambot` to avoid conflicts with another plugin.
 * v1.0 (October 16, 2013)
   * Initial release.
 
