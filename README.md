@@ -7,11 +7,8 @@ Antispambot translates each character of your email address into its HTML charac
 **In This Documentation**
 
 1. [Getting Started](#getting-started)
-2. [Options & Settings](#options-and-settings)
-3. [Browser Compatibility](#browser-compatibility)
-4. [License](#license)
-5. [Changelog](#changelog)
-6. [Older Docs](#older-docs)
+2. [License](#license)
+3. [Changelog](#changelog)
 
 
 
