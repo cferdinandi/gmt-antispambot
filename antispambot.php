@@ -3,7 +3,7 @@
 /* ======================================================================
 
 	Plugin Name: WP Email Antispambot
-	Plugin URI: http://cferdinandi.github.io/antispambot/
+	Plugin URI: https://github.com/cferdinandi/antispambot/
 	Description: Provides a shortcode for the antispambot function that's built into WordPress.
 	Version: 1.1
 	Author: Chris Ferdinandi
