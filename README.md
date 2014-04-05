@@ -4,6 +4,8 @@ A simple shortcode that hides your email address from spam robots in WordPress.
 
 Antispambot translates each character of your email address into its HTML character entity. It looks and works normal to humans, but makes no sense to robots. Learn more at the [WordPress Codex](http://codex.wordpress.org/Protection_From_Harvesters).
 
+[Download Antispambot](https://github.com/cferdinandi/antispambot/archive/master.zip)
+
 **In This Documentation**
 
 1. [Getting Started](#getting-started)
