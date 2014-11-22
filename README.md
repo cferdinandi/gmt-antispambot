@@ -45,7 +45,9 @@ Antispambot is licensed under the [MIT License](http://gomakethings.com/mit/).
 
 ## Changelog
 
-* v1.1 - November 6, 2013
+Antispambot uses [semantic versioning](http://semver.org/).
+
+* v1.1.0 - November 6, 2013
 	* Renamed plugin `WP Email Antispambot` to avoid conflicts with another plugin.
-* v1.0 - October 16, 2013
+* v1.0.0 - October 16, 2013
 	* Initial release.
