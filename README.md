@@ -11,7 +11,6 @@ Antispambot translates each character of your email address into its HTML charac
 1. [Getting Started](#getting-started)
 2. [How to Contribute](#how-to-contribute)
 3. [License](#license)
-4. [Changelog](#changelog)
 
 
 
@@ -40,14 +39,3 @@ In lieu of a formal style guide, take care to maintain the existing coding style
 ## License
 
 Antispambot is licensed under the [MIT License](http://gomakethings.com/mit/).
-
-
-
-## Changelog
-
-Antispambot uses [semantic versioning](http://semver.org/).
-
-* v1.1.0 - November 6, 2013
-	* Renamed plugin `WP Email Antispambot` to avoid conflicts with another plugin.
-* v1.0.0 - October 16, 2013
-	* Initial release.
