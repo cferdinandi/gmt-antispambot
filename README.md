@@ -23,7 +23,7 @@ Getting started with Antispambot is as simple as installing a plugin:
 3. Use the `[email_antispambot]` shortcode in the WordPress editor.
 
 ```html
-<a href="mailto:[email_antispambot email='your@email.com']">[email_antispambot email='your@email.com']</a>
+<a href="mailto:[email_antispambot encode='your@email.com']">[email_antispambot encode='your@email.com']</a>
 ```
 
 And that's it, you're done. Nice work!

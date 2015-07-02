@@ -4,7 +4,7 @@
  * Plugin Name: WP Email Antispambot
  * Plugin URI: https://github.com/cferdinandi/antispambot/
  * Description: Provides a shortcode for the antispambot function that's built into WordPress.
- * Version: 1.1.0
+ * Version: 2.0.0
  * Author: Chris Ferdinandi
  * Author URI: http://gomakethings.com
  * License: MIT
@@ -15,9 +15,9 @@
 
 	function emailasb_antispambot( $atts ) {
 		extract(shortcode_atts(array(
-			'email' => '',
+			'encode' => '',
 		), $atts));
-		$antispambot = antispambot( $email );
+		$antispambot = antispambot( $encode );
 		return $antispambot;
 	}
 	add_shortcode( 'email_antispambot', 'emailasb_antispambot' );
