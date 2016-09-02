@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: WP Email Antispambot
+ * Plugin Name: GMT Antispambot
  * Plugin URI: https://github.com/cferdinandi/antispambot/
  * Description: Provides a shortcode for the antispambot function that's built into WordPress.
  * Version: 2.0.0
