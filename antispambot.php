@@ -2,9 +2,10 @@
 
 /**
  * Plugin Name: GMT Antispambot
- * Plugin URI: https://github.com/cferdinandi/antispambot/
+ * Plugin URI: https://github.com/cferdinandi/gmt-antispambot/
+ * GitHub Plugin URI: https://github.com/cferdinandi/gmt-antispambot/
  * Description: Provides a shortcode for the antispambot function that's built into WordPress.
- * Version: 2.0.0
+ * Version: 2.0.1
  * Author: Chris Ferdinandi
  * Author URI: http://gomakethings.com
  * License: MIT
